@@ -1,0 +1,7 @@
+.product-info-link {
+  color: #9b9999;
+  text-decoration: none !important;
+}
+.product-info-link:hover {
+  color: #fdbe02;
+}
